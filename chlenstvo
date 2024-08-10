@@ -1,0 +1,1189 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]>   <html class="no-js oldie ie9 ie" lang="ru-RU" > <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="ru-RU" > <!--<![endif]-->
+<head>
+        <meta charset="UTF-8" >
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!-- devices setting -->
+        <meta name="viewport"   content="initial-scale=1,user-scalable=no,width=device-width">
+
+<!-- outputs by wp_head -->
+<title>Правила вступления в Союз волонтерских организаций и движений &#8212; СВОД</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//widget.cloudpayments.ru' />
+<link rel='dns-prefetch' href='//widgets.mixplat.ru' />
+<link rel="alternate" type="application/rss+xml" title="СВОД &raquo; Лента" href="https://volontery.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="СВОД &raquo; Лента комментариев" href="https://volontery.ru/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/volontery.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://volontery.ru/wp-includes/css/dist/block-library/style.min.css?ver=6.6.1' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='leyka-new-templates-styles-css' href='https://volontery.ru/wp-content/plugins/leyka/assets/css/public.css?ver=3.31.5' media='all' />
+<style id='leyka-new-templates-styles-inline-css'>
+
+:root {
+	--leyka-ext-example-color-main: #F38D04;
+	--leyka-ext-example-color-main-op10: #F38D041A;
+	--leyka-ext-example-color-background: #FDD39B;
+	--leyka-ext-example-color-caption: #FDD39B;
+	--leyka-ext-example-color-text: #1B1A18;
+}
+        
+
+:root {
+	--leyka-ext-support-packages-color-main: #F38D04;
+	--leyka-ext-support-packages-color-main-op10: #F38D041A;
+	--leyka-ext-support-packages-color-background: #ffffff;
+	--leyka-ext-support-packages-color-caption: #ffffff;
+	--leyka-ext-support-packages-color-text: #000000;
+}
+        
+
+:root {
+	--leyka-ext-engagement-banner-color-main: #F38D04;
+	--leyka-ext-engagement-banner-color-main-op10: #F38D041A;
+	--leyka-ext-engagement-banner-color-background: #FDD39B;
+	--leyka-ext-engagement-banner-color-caption: #FDD39B;
+	--leyka-ext-engagement-banner-color-text: #1B1A18;
+}
+        
+</style>
+<link rel='stylesheet' id='leyka-plugin-styles-css' href='https://volontery.ru/wp-content/plugins/leyka/css/public.css?ver=3.31.5' media='all' />
+<link rel='stylesheet' id='owlcss-css' href='https://volontery.ru/wp-content/plugins/lgx-owl-carousel/public/assets/lib/owl.carousel2/owl.carousel.css?ver=2.0.0' media='all' />
+<link rel='stylesheet' id='owltheme-css' href='https://volontery.ru/wp-content/plugins/lgx-owl-carousel/public/assets/lib/owl.carousel2/owl.theme.default.min.css?ver=2.0.0' media='all' />
+<link rel='stylesheet' id='lgx-owl-carousel-css' href='https://volontery.ru/wp-content/plugins/lgx-owl-carousel/public/assets/css/lgx-owl-carousel-public.css?ver=2.0.0' media='all' />
+<link rel='stylesheet' id='owl-style-css' href='https://volontery.ru/wp-content/plugins/wp-owl-carousel/owl-carousel/owl.carousel.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='owl-theme-css' href='https://volontery.ru/wp-content/plugins/wp-owl-carousel/owl-carousel/owl.theme.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='auxin-base-css' href='https://volontery.ru/wp-content/themes/phlox/css/base.css?ver=2.16.0' media='all' />
+<link rel='stylesheet' id='auxin-front-icon-css' href='https://volontery.ru/wp-content/themes/phlox/css/auxin-icon.css?ver=2.16.0' media='all' />
+<link rel='stylesheet' id='auxin-main-css' href='https://volontery.ru/wp-content/themes/phlox/css/main.css?ver=2.16.0' media='all' />
+<link rel='stylesheet' id='auxin-custom-css' href='https://volontery.ru/wp-content/uploads/phlox/custom.css?ver=1.7' media='all' />
+<link rel='stylesheet' id='auxin-elementor-base-css' href='https://volontery.ru/wp-content/themes/phlox/css/other/elementor.css?ver=2.16.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://volontery.ru/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.23.3' media='all' />
+<link rel='stylesheet' id='elementor-post-138-css' href='https://volontery.ru/wp-content/uploads/elementor/css/post-138.css?ver=1722461566' media='all' />
+<link rel='stylesheet' id='elementor-post-132-css' href='https://volontery.ru/wp-content/uploads/elementor/css/post-132.css?ver=1722461566' media='all' />
+<link rel='stylesheet' id='eael-general-css' href='https://volontery.ru/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.9.27' media='all' />
+<script src="https://volontery.ru/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://volontery.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script async="async" src="https://widgets.mixplat.ru/lMonitor/0/monitor.js?ver=3.31.5.001" id="leyka-mixplat-wloader-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/lgx-owl-carousel/public/assets/lib/owl.carousel2/owl.carousel.js?ver=2.0.0" id="lgxowljs-js"></script>
+<script id="lgx-owl-carousel-js-extra">
+var lgxcarousel = {"owl_navigationTextL":"https:\/\/volontery.ru\/wp-content\/plugins\/lgx-owl-carousel\/public\/assets\/img\/arrow-left.png","owl_navigationTextR":"https:\/\/volontery.ru\/wp-content\/plugins\/lgx-owl-carousel\/public\/assets\/img\/arrow-right.png"};
+</script>
+<script src="https://volontery.ru/wp-content/plugins/lgx-owl-carousel/public/assets/js/lgx-owl-carousel-public.js?ver=2.0.0" id="lgx-owl-carousel-js"></script>
+<script id="auxin-modernizr-js-extra">
+var auxin = {"ajax_url":"https:\/\/volontery.ru\/wp-admin\/admin-ajax.php","is_rtl":"","is_reponsive":"1","is_framed":"","frame_width":"20","wpml_lang":"en","uploadbaseurl":"https:\/\/volontery.ru\/wp-content\/uploads","nonce":"4a3c302895"};
+</script>
+<script id="auxin-modernizr-js-before">
+/* < ![CDATA[ */
+function auxinNS(n){for(var e=n.split("."),a=window,i="",r=e.length,t=0;r>t;t++)"window"!=e[t]&&(i=e[t],a[i]=a[i]||{},a=a[i]);return a;}
+/* ]]> */
+</script>
+<script src="https://volontery.ru/wp-content/themes/phlox/js/solo/modernizr-custom.min.js?ver=2.16.0" id="auxin-modernizr-js"></script>
+<link rel="https://api.w.org/" href="https://volontery.ru/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://volontery.ru/wp-json/wp/v2/pages/217" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://volontery.ru/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.1" />
+<link rel="canonical" href="https://volontery.ru/chlenstvo/" />
+<link rel='shortlink' href='https://volontery.ru/?p=217' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://volontery.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvolontery.ru%2Fchlenstvo%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://volontery.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvolontery.ru%2Fchlenstvo%2F&#038;format=xml" />
+    <meta name="title"       content="Правила вступления в Союз волонтерских организаций и движений" />
+    <meta name="description" content="ПРАВИЛА ВСТУПЛЕНИЯ ОБЩИЕ ПОЛОЖЕНИЯ 1.1. Членами Союза могут стать зарегистрированные некоммерческие организации: реализующие социальные волонтерские программы и проекты; зарегистрированные не позднее, чем за 2 года до вступления в СВОД осуществляющие благотворительную и волонтерскую деятельность на территории Российской Федерации; 1.2. Для вступления в союз необходимо: знать и разделять цели и задачи Союза; подтвердить опыт реализации волонтерских [&hellip;]" />
+    <!-- HFCM by 99 Robots - Snippet # 1: Yandex.Metrika counter -->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter36335710 = new Ya.Metrika({
+                    id:36335710,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/36335710" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- /end HFCM by 99 Robots -->
+<!-- HFCM by 99 Robots - Snippet # 2: Google Tag Manager -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-53DLNS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-53DLNS');</script>
+<!-- End Google Tag Manager -->
+<!-- /end HFCM by 99 Robots -->
+<!-- HFCM by 99 Robots - Snippet # 3: favicon -->
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!-- /end HFCM by 99 Robots -->
+
+                <script>
+                    document.documentElement.classList.add("leyka-js");
+                </script>
+                <style>
+                    :root {
+                        --color-main: 		#1db318;
+                        --color-main-dark: 	#1aa316;
+                        --color-main-light: #acebaa;
+                    }
+                </style>
+
+                <style> .lgx-carousel-section .lgx-carousel .owl-video-tn{height: 350px; width: 100%;} </style><!-- Chrome, Firefox OS and Opera -->
+<meta name="theme-color" content="#1bb0ce" />
+<!-- Windows Phone -->
+<meta name="msapplication-navbutton-color" content="#1bb0ce" />
+<!-- iOS Safari -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<meta name="generator" content="Elementor 3.23.3; features: e_optimized_css_loading, additional_custom_breakpoints, e_lazyload; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+					<style id="wp-custom-css">
+			header#site-elementor-header {
+    top: 0!important;
+}
+
+.elementor-138 .elementor-element.elementor-element-b23870d {
+   margin-top: 0!important;
+}
+
+.elementor-widget-image-carousel .swiper-slide {
+    text-align: center;
+    padding: 20px;
+}
+
+span.author.vcard, span.entry-meta-sep.meta-sep {
+    display: none;
+}
+
+p.nocomments {
+    display: none;
+}
+
+span.entry-tax {
+    display: none;
+}
+.entry-main {
+    text-align: left;
+}
+
+@media only screen and (max-width: 480px) 
+{
+.swiper-image-stretch .swiper-slide .swiper-slide-image{height: 112px; }
+ul.slick-dots {
+	display:none;
+	visibility: hidden !important;
+	}
+}
+
+.wp-caption-text {
+	font-size: 16px;}
+
+.hentry .entry-media {
+    margin-bottom: 2px;
+}		</style>
+		<!-- end wp_head -->
+</head>
+
+
+<body class="page-template-default page page-id-217 wp-custom-logo elementor-default elementor-kit-15 phlox aux-dom-unready aux-full-width aux-resp aux-s-fhd aux-top-sticky  aux-page-animation-off _auxels"  data-framed="">
+
+
+<div id="inner-body">
+
+    <header class="aux-elementor-header" id="site-elementor-header" itemscope="itemscope" itemtype="https://schema.org/WPHeader" data-sticky-height="30"  >
+        <div class="aux-wrapper">
+            <div class="aux-header aux-header-elements-wrapper">
+            		<div data-elementor-type="header" data-elementor-id="138" class="elementor elementor-138">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-b23870d elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b23870d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="aux-parallax-section elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-53002f12" data-id="53002f12" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1eecc5ef elementor-widget elementor-widget-aux_logo" data-id="1eecc5ef" data-element_type="widget" data-widget_type="aux_logo.default">
+				<div class="elementor-widget-container">
+			<div class="aux-widget-logo"><a class="aux-logo-anchor aux-has-logo" title="СВОД" href="https://volontery.ru/"><img width="216" height="44" src="https://volontery.ru/wp-content/uploads/2022/02/cropped-icon_volontery_ru.png" class="aux-attachment aux-featured-image attachment-216x44 aux-attachment-id-145 " alt="cropped-icon_volontery_ru" srcset="https://volontery.ru/wp-content/uploads/2022/02/cropped-icon_volontery_ru-150x44.png 150w,https://volontery.ru/wp-content/uploads/2022/02/cropped-icon_volontery_ru.png 216w,https://volontery.ru/wp-content/uploads/2022/02/cropped-icon_volontery_ru-206x206.png 206w" data-ratio="1" data-original-w="216" /></a><a class="aux-logo-anchor aux-logo-sticky aux-logo-hidden aux-has-logo" title="СВОД" href="https://volontery.ru/"><img width="216" height="44" src="https://volontery.ru/wp-content/uploads/2022/02/cropped-icon_volontery_ru.png" class="aux-attachment aux-featured-image attachment-216x44 aux-attachment-id-145 " alt="cropped-icon_volontery_ru" srcset="https://volontery.ru/wp-content/uploads/2022/02/cropped-icon_volontery_ru-150x44.png 150w,https://volontery.ru/wp-content/uploads/2022/02/cropped-icon_volontery_ru.png 216w,https://volontery.ru/wp-content/uploads/2022/02/cropped-icon_volontery_ru-206x206.png 206w" data-ratio="1" data-original-w="216" /></a><section class="aux-logo-text"><h3 class="site-title"><a href="https://volontery.ru/" title="СВОД">СВОД</a></h3><p class="site-description">Союз волонтерских организаций и движений. Союз волонтерских организаций и движений. Союз волонтерских организаций и движений. </p></section></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="aux-parallax-section elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5e98a238 elementor-hidden-mobile" data-id="5e98a238" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-382ec95e elementor-widget elementor-widget-button" data-id="382ec95e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://volonter.ru/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Стань волонтером</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="aux-parallax-section elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6fc35745 elementor-hidden-mobile" data-id="6fc35745" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-30b32423 elementor-widget elementor-widget-button" data-id="30b32423" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="/podderzhi-nas/#leyka">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Поддержи нас</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="aux-parallax-section elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-162dbc33" data-id="162dbc33" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-44dac0c7 elementor-widget elementor-widget-aux_menu_box" data-id="44dac0c7" data-element_type="widget" data-widget_type="aux_menu_box.default">
+				<div class="elementor-widget-container">
+			<div class="aux-elementor-header-menu aux-nav-menu-element aux-nav-menu-element-44dac0c7"><div class="aux-burger-box" data-target-panel="offcanvas" data-target-content=".elementor-element-44dac0c7 .aux-master-menu"><div class="aux-burger aux-thick-medium"><span class="mid-line"></span></div></div><!-- start master menu -->
+<nav id="master-menu-elementor-44dac0c7" class="menu-verhnee-container">
+
+	<ul id="menu-verhnee" class="aux-master-menu aux-no-js aux-skin-classic aux-with-indicator aux-horizontal" data-type="horizontal"  data-switch-type="toggle" data-switch-parent=".elementor-element-44dac0c7 .aux-offcanvas-menu .offcanvas-content" data-switch-width="9000"  >
+		<!-- start single menu -->
+		<li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28 aux-menu-depth-0 aux-menu-root-1 aux-menu-item">
+			<a href="/o-svode" class="aux-item-content">
+				<span class="aux-menu-label">О нас</span>
+			</a>
+		</li>
+		<!-- end single menu -->
+		<!-- start single menu -->
+		<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-29 aux-menu-depth-0 aux-menu-root-2 aux-menu-item">
+			<a href="/chlenstvo" class="aux-item-content">
+				<span class="aux-menu-label">Стать членом Союза</span>
+			</a>
+		</li>
+		<!-- end single menu -->
+		<!-- start single menu -->
+		<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30 aux-menu-depth-0 aux-menu-root-3 aux-menu-item">
+			<a href="/uchastniki-svoda" class="aux-item-content">
+				<span class="aux-menu-label">Участники Союза</span>
+			</a>
+		</li>
+		<!-- end single menu -->
+		<!-- start single menu -->
+		<li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224 aux-menu-depth-0 aux-menu-root-4 aux-menu-item">
+			<a href="https://volontery.ru/uchastniki-svoda-0/https://volontery.ru/lica-svoda/" class="aux-item-content">
+				<span class="aux-menu-label">Лица Союза</span>
+			</a>
+		</li>
+		<!-- end single menu -->
+		<!-- start single menu -->
+		<li id="menu-item-576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-576 aux-menu-depth-0 aux-menu-root-5 aux-menu-item">
+			<a href="https://volontery.ru/news/" class="aux-item-content">
+				<span class="aux-menu-label">Новости</span>
+			</a>
+		</li>
+		<!-- end single menu -->
+		<!-- start single menu -->
+		<li id="menu-item-719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-719 aux-menu-depth-0 aux-menu-root-6 aux-menu-item">
+			<a href="https://volontery.ru/otchety/" class="aux-item-content">
+				<span class="aux-menu-label">Отчеты</span>
+			</a>
+		</li>
+		<!-- end single menu -->
+		<!-- start single menu -->
+		<li id="menu-item-735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735 aux-menu-depth-0 aux-menu-root-7 aux-menu-item">
+			<a href="https://volontery.ru/kontakty-2/" class="aux-item-content">
+				<span class="aux-menu-label">Контакты</span>
+			</a>
+		</li>
+		<!-- end single menu -->
+		<!-- start single menu -->
+		<li id="menu-item-235" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-235 aux-menu-depth-0 aux-menu-root-8 aux-menu-item">
+			<a href="/podderzhi-nas/#leyka" class="aux-item-content">
+				<span class="aux-menu-label"><b>Поддержи нас!</b></span>
+			</a>
+		</li>
+		<!-- end single menu -->
+		<!-- start single menu -->
+		<li id="menu-item-1454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1454 aux-menu-depth-0 aux-menu-root-9 aux-menu-item">
+			<a href="https://volonter.ru/" class="aux-item-content">
+				<span class="aux-menu-label"><b>Стань волонтером</b></span>
+			</a>
+		</li>
+		<!-- end single menu -->
+	</ul>
+
+</nav>
+<!-- end master menu -->
+<section class="aux-offcanvas-menu aux-pin-right"><div class="aux-panel-close"><div class="aux-close aux-cross-symbol aux-thick-medium"></div></div><div class="offcanvas-header"></div><div class="offcanvas-content"></div><div class="offcanvas-footer"></div></section></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		            </div><!-- end of header-elements -->
+        </div><!-- end of wrapper -->
+    </header><!-- end header -->
+        <header id="site-title" class="page-title-section">
+
+            <div class="page-header aux-wrapper aux-auto-height aux-boxed-container aux-center aux-top aux-dark aux-arrow-none" style="display:block; "   >
+
+                
+                <div class="aux-container" >
+
+                    <p class="aux-breadcrumbs"><span class="aux-breadcrumb-sep breadcrumb-icon auxicon-chevron-right-1"></span><span><a href="https://volontery.ru" title="Главная">Главная</a></span><span class="aux-breadcrumb-sep breadcrumb-icon auxicon-chevron-right-1"></span><span>Правила вступления в Союз волонтерских организаций и движений</span></p>
+
+                                        <div class="aux-page-title-entry">
+                                            <div class="aux-page-title-box">
+                                                <section class="page-title-group" >
+                                                                <h1 class="page-title">Правила вступления в Союз волонтерских организаций и движений</h1>
+                                                            </section>
+
+                                                    </div>
+                    </div><!-- end title entry -->
+                                    </div>
+
+                
+            </div><!-- end page header -->
+        </header> <!-- end page header -->
+        
+    <main id="main" class="aux-main aux-territory  aux-single aux-page aux-boxed-container aux-content-top-margin no-sidebar aux-sidebar-style-border aux-user-entry" >
+        <div class="aux-wrapper">
+            <div class="aux-container aux-fold">
+
+                <div id="primary" class="aux-primary" >
+                    <div class="content" role="main"  >
+
+                        
+                
+                        
+                        <article id="post-217" class="post-217 page type-page status-publish hentry">
+
+                            <div class="entry-main">
+
+                                <div class="entry-content">
+
+                                    <p><strong>ПРАВИЛА ВСТУПЛЕНИЯ</strong></p>
+<ol>
+<li><span style="font-weight: 400;"> ОБЩИЕ ПОЛОЖЕНИЯ</span></li>
+</ol>
+<p><span style="font-weight: 400;">1.1. Членами Союза могут стать зарегистрированные некоммерческие организации:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">реализующие социальные волонтерские программы и проекты;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">зарегистрированные не позднее, чем за 2 года до вступления в СВОД</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">осуществляющие благотворительную и волонтерскую деятельность на территории Российской Федерации;</span></li>
+</ul>
+<p><span style="font-weight: 400;">1.2. Для вступления в союз необходимо:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">знать и разделять цели и задачи Союза;</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">подтвердить опыт реализации волонтерских программ или проектов (предоставить отчеты, ссылки на публикации и т.д.)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">иметь действующий сайт, где открыто опубликована официальная информация об НКО и руководстве организации</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">иметь раздел на сайте о вступлении в волонтеры</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">иметь рекомендацию на вступление в Союз, как минимум от одного действующего члена Союза (рекомендацию можно получить на основании партнерских проектов или на основании проверки организации действующим членом СВОДа)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">иметь финансовую возможность вносить ежемесячные членские взносы на программы и текущие расходы Союза.</span></li>
+</ul>
+<ol start="2">
+<li><span style="font-weight: 400;"> ПОРЯДОК ВСТУПЛЕНИЯ В СОЮЗ НОВЫХ ЧЛЕНОВ</span></li>
+</ol>
+<p><span style="font-weight: 400;">2.1. По уставу Союза вступление новых членов осуществляется на основании решения Общего собрания членов Союза.</span></p>
+<p><span style="font-weight: 400;">2.2. Некоммерческая или волонтерская (добровольческая) организация, желающая вступить в Союз:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">подает заявление в свободной форме за подписью руководства на имя директора СВОДа с просьбой принять НКО в Союз</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">проводит презентацию перед организациями-участниками Союза;</span></li>
+</ul>
+<p><span style="font-weight: 400;">2.3. Совет Союза вправе запросить для ознакомления копии учредительных документов со всеми внесенными в них изменениями и/или дополнениями (в.т.ч. устав); копии свидетельств о государственной регистрации учредительных документов со всеми принятыми к ним изменениями и/или дополнениями; копию свидетельства о государственной регистрации общественного объединения; копию документа, подтверждающего полномочия руководителя общественного объединения (выписка из протокола общего собрания, решение учредителей и т.п.), заверенную подписями председателя и/или секретаря собрания (совета директоров) или иных лиц, уполномоченных заверять подобные документы, и печатью общественного объединения; отчет о деятельности (можно произвольной формы) за последние 2 года, с перечнем действующих проектов и программ, реализуемых общественным объединением на момент вступления в Союз, а также проектов и программ, реализованных в течение двух последних лет и т.п. </span></p>
+<p><span style="font-weight: 400;">2.4. Решение о принятии в Союз новых членов принимается в срок не более одного календарного месяца, с даты подачи заявления и, в случае требования, предоставления необходимых документов.</span></p>
+<p><span style="font-weight: 400;">2.5. Датой принятия некоммерческой организации в члены Союза является дата Общего собрания НКО — членов Союза, на котором принято соответствующее решение.</span></p>
+<p><span style="font-weight: 400;">2.6. В случае принятия решения об отказе некоммерческой организации во вступлении в члены Союза, ей в течение рабочей недели с момента принятия данного решения направляется уведомление об отказе. Уведомление осуществляется любым доступным способом (личная встреча, электронная почта, телефон, факс, иные средства связи).</span></p>
+<p><span style="font-weight: 400;">2.7. С момента вступления в состав Союза организация получает:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Нетворкинг и коммуникации</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Технологии и экспертизу</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Развитие брэнда через причастность к бренду Союза</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Защита прав и интересов в области социального волонтерства</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Статус члена СВОДа и подтверждение репутации (в частности, письма поддержки для грантов и благотворителей)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Поддержку во взаимодействием с обществом</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Поддержку во взаимодействии с органами власти</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Консалтинг по вопросам, в которых компетентны члены СВОДа</span></li>
+</ul>
+<p><span style="font-weight: 400;">2.8. С момента вступления в состав Союза организация вносит ежемесячные членские взносы</span></p>
+<ol start="3">
+<li><span style="font-weight: 400;"> ВЫХОД ИЗ СОЮЗА</span></li>
+</ol>
+<p><span style="font-weight: 400;">3.1. Член Союза вправе по своему усмотрению выйти из Союза в любое время, подав письменное заявление в свободной форме на имя директора СВОДа.</span></p>
+<p><span style="font-weight: 400;">3.2. В течение 30 (тридцати) дней после подачи заявления Совет Союза уведомляет вышедшего члена Союза об исключении из Союза. Уведомление осуществляется любым доступным способом (личная встреча, электронная почта, телефон, факс, иные средства связи).</span></p>
+<p><span style="font-weight: 400;">3.3. Член Союза обязан в течение 10 (десяти) дней после подачи заявления о выходе из Союза исполнить все обязанности, имеющиеся перед Союзом в соответствии с текущими договоренностями.</span></p>
+<p><span style="font-weight: 400;">3.4. Членство в Союзе прекращается с момента получения уведомления об этом со стороны Совета Союза.</span></p>
+<ol start="4">
+<li><span style="font-weight: 400;"> ИСКЛЮЧЕНИЕ ЧЛЕНА ИЗ СОЮЗА</span></li>
+</ol>
+<p><span style="font-weight: 400;">4.1. Член Союза может быть исключен из Союза решением Общего собрания НКО — членов Союза и считается исключенным с момента уведомления о принятии такого решения любым доступным способом (личная встреча, электронная почта, телефон, факс, иные средства связи).</span></p>
+<p><span style="font-weight: 400;">4.2. Вопрос об исключении члена из Союза подлежит предварительному обсуждению на собрании НКО — членов Союза.</span></p>
+<p><span style="font-weight: 400;">4.3. Исключенный член обязан исполнить все обязанности, имеющиеся перед Союзом в соответствии с текущими на тот момент договоренностями.</span></p>
+<ol start="5">
+<li><span style="font-weight: 400;"> ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ</span></li>
+</ol>
+<p><span style="font-weight: 400;">5.1. Вопросы вступления новых членов в Союз, выхода (исключения) членов из Союза и требования к ним, не нашедшие отражения в настоящих Правилах, подлежат урегулированию в соответствии с Уставом Союза и законодательством Российской Федерации.</span></p>
+<div class="clear"></div>
+                                </div> <!-- end article section -->
+
+                                <footer class="entry-meta">
+                                                                    </footer> <!-- end article footer -->
+
+                            </div>
+
+                        </article> <!-- end article -->
+
+
+                        
+                        <div class="clear"></div>
+
+                        
+                        <div class="clear"></div>
+
+                        
+
+<!-- You can start editing here. -->
+
+
+    
+
+
+
+                
+                    </div><!-- end content -->
+                </div><!-- end primary -->
+
+                
+            </div><!-- end container -->
+        </div><!-- end wrapper -->
+    </main><!-- end main -->
+
+    <footer class="aux-elementor-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo"  >
+        <div class="aux-wrapper">
+        		<div data-elementor-type="footer" data-elementor-id="132" class="elementor elementor-132">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-1a7ad70 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1a7ad70" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="aux-parallax-section elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-c3b3c37" data-id="c3b3c37" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-777bcbb elementor-widget elementor-widget-aux_copyright" data-id="777bcbb" data-element_type="widget" data-widget_type="aux_copyright.default">
+				<div class="elementor-widget-container">
+			<small>&copy; 2024 СВОД. All rights reserved.</small>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="aux-parallax-section elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-45fb5f3" data-id="45fb5f3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ce3a5ee elementor-widget elementor-widget-menu-anchor" data-id="ce3a5ee" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 25-07-2024 */
+body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div class="elementor-menu-anchor" id="leyka"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a96ad58 elementor-widget elementor-widget-heading" data-id="a96ad58" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 25-07-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h3 class="elementor-heading-title elementor-size-default">Пожертвовать</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5dbfcdc elementor-widget elementor-widget-shortcode" data-id="5dbfcdc" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol width="12" height="9" viewBox="0 0 12 9" id="icon-checkbox-check">
+        <path d="M11.0263 1.69231L5.17386 7.86923L5.17386 7.86923L4.66495 8.46154L0 3.46923L1.52671 1.77692L4.66495 5.07692L9.49954 0L11.0263 1.69231Z">
+    </symbol>
+</svg>
+
+<div id="leyka-pf-11" class="leyka-pf leyka-pf-star leyka-pf-need-help" data-form-id="leyka-pf-11-need-help-form" data-leyka-ver="3-31-5" data-card-2column-breakpoint-width="1160">
+
+    <div class="leyka-payment-form leyka-tpl-need-help-form leyka-tpl-star-form" data-template="need-help">
+
+        
+        <form id="leyka-pf-11-need-help-form" class="leyka-pm-form leyka-no-validation" action="https://volontery.ru/leyka-process-donation" method="post" novalidate="novalidate">
+
+            <div class="section section--periodicity " style="">
+
+                <div class="section-title-container">
+                    <div class="section-title-text" role="heading" aria-level="3">Тип пожертвования</div>
+                </div>
+
+                <div class="section__fields periodicity">
+
+                    <a
+                        href="#"
+                        class=" "
+                        data-periodicity="monthly"
+                        role="tab"
+                        aria-selected="false">
+                        Рекуррентные платежи                    </a>
+
+                    <a
+                        href="#"
+                        class="active "
+                        data-periodicity="once"
+                        role="tab"
+                        aria-selected="true">
+                        Разовые платежи                    </a>
+
+                </div>
+
+            </div>
+
+            <div class="section section--currencies leyka-hidden leyka-hidden"
+                 data-main-currency="rub" data-currencies-count="1"
+                 data-is-crypto-enabled="0" >
+
+                <div class="section-title-container">
+
+                    <div class="section-title-line"></div>
+                    <div class="section-title-text" role="heading" aria-level="3">
+                        Donation currency                    </div>
+
+                </div>
+
+                <div class="section__fields currencies">
+
+                                            <a href="#" class="active" data-currency="rub" role="tab" aria-selected="true">₽</a>
+                    
+                    
+                </div>
+
+            </div>
+
+            
+                <div class="currency-tab currency-rub ">
+
+                <div class="section section--amount">
+
+                    <div class="section-title-container">
+                        <div class="section-title-text" role="heading" aria-level="3">
+                            Сумма пожертвования                        </div>
+                    </div>
+
+                    <div class="section__fields amount" data-amount-mode="mixed">
+
+                    <input type="hidden" id="_wpnonce" name="_wpnonce" value="62f904bde3" /><input type="hidden" name="_wp_http_referer" value="/chlenstvo/" /><input type='hidden' name='leyka_template_id' value='need-help' class='leyka_template_id'>
+<input type='hidden' name='leyka_amount_field_type' value='custom' class='leyka_amount_field_type'>
+<input type='hidden' name='leyka_campaign_id' value='11' class='leyka_campaign_id'>
+<input type='hidden' name='leyka_ga_campaign_title' value='Поддержи проект' class='leyka_ga_campaign_title'>
+<input type='hidden' name='leyka_honeypot' value='' class='leyka_honeypot'>
+<input type="hidden" name="top_rub" value="30000">
+            <input type="hidden" name="bottom_rub" value="10">
+                        <div class="amount__figure star-swiper no-swipe">
+
+                            <div class="full-list equalize-elements-width" data-equalize-elements-exceptions=".flex-amount-item">
+
+                            
+                                    <div class="swiper-item " style="" data-payment-type="single" data-payment-amount-option-id="hf3i" data-value="100" role="button" tabindex="0">
+                                        <div class="swiper-item-inner">
+                                            <span class="amount">100</span>
+                                            <span class="currency">₽</span>
+                                        </div>
+                                    </div>
+
+                                
+                                    <div class="swiper-item " style="" data-payment-type="single" data-payment-amount-option-id="w9mh" data-value="300" role="button" tabindex="0">
+                                        <div class="swiper-item-inner">
+                                            <span class="amount">300</span>
+                                            <span class="currency">₽</span>
+                                        </div>
+                                    </div>
+
+                                
+                                    <div class="swiper-item " style="" data-payment-type="single" data-payment-amount-option-id="cfu3" data-value="500" role="button" tabindex="0">
+                                        <div class="swiper-item-inner">
+                                            <span class="amount">500</span>
+                                            <span class="currency">₽</span>
+                                        </div>
+                                    </div>
+
+                                
+                                    <div class="swiper-item " style="" data-payment-type="single" data-payment-amount-option-id="pgjv" data-value="1000" role="button" tabindex="0">
+                                        <div class="swiper-item-inner">
+                                            <span class="amount">1000</span>
+                                            <span class="currency">₽</span>
+                                        </div>
+                                    </div>
+
+                                
+                                    <div class="swiper-item " style="display: none" data-payment-type="recurring" data-payment-amount-option-id="qa0u" data-value="100" role="button" tabindex="0">
+                                        <div class="swiper-item-inner">
+                                            <span class="amount">100</span>
+                                            <span class="currency">₽</span>
+                                        </div>
+                                    </div>
+
+                                
+                                    <div class="swiper-item " style="display: none" data-payment-type="recurring" data-payment-amount-option-id="qtmu" data-value="300" role="button" tabindex="0">
+                                        <div class="swiper-item-inner">
+                                            <span class="amount">300</span>
+                                            <span class="currency">₽</span>
+                                        </div>
+                                    </div>
+
+                                
+                                    <div class="swiper-item " style="display: none" data-payment-type="recurring" data-payment-amount-option-id="gl8l" data-value="500" role="button" tabindex="0">
+                                        <div class="swiper-item-inner">
+                                            <span class="amount">500</span>
+                                            <span class="currency">₽</span>
+                                        </div>
+                                    </div>
+
+                                
+                                    <div class="swiper-item " style="display: none" data-payment-type="recurring" data-payment-amount-option-id="tx7f" data-value="1000" role="button" tabindex="0">
+                                        <div class="swiper-item-inner">
+                                            <span class="amount">1000</span>
+                                            <span class="currency">₽</span>
+                                        </div>
+                                    </div>
+
+                                
+                            
+                                <label class="swiper-item flex-amount-item ">
+                                    <span class="swiper-item-inner">
+                                        <input type="number" title="Введите вашу сумму" placeholder="Введите вашу сумму" data-desktop-ph="Другая сумма" data-mobile-ph="Введите вашу сумму" name="donate_amount_flex" class="donate_amount_flex" value="500" min="1" max="999999">
+                                        <span aria-hidden="true">₽</span>
+                                    </span>
+                                </label>
+
+                            
+                            </div>
+
+                            
+                            <input type="hidden" class="leyka_donation_amount" name="leyka_donation_amount" value="">
+
+                        </div>
+
+                        <input type="hidden" class="leyka_donation_currency" name="leyka_donation_currency" data-currency-label="₽" value="rub">
+                        <input type="hidden" name="leyka_recurring" class="is-recurring-chosen" value="0">
+
+                    </div>
+
+                    
+                        <div class="section__fields amount-description">
+                                                            <span data-payment-amount-option-id="hf3i" style=""></span>
+                                                            <span data-payment-amount-option-id="w9mh" style="display: none"></span>
+                                                            <span data-payment-amount-option-id="cfu3" style="display: none"></span>
+                                                            <span data-payment-amount-option-id="pgjv" style="display: none"></span>
+                                                            <span data-payment-amount-option-id="qa0u" style="display: none"></span>
+                                                            <span data-payment-amount-option-id="qtmu" style="display: none"></span>
+                                                            <span data-payment-amount-option-id="gl8l" style="display: none"></span>
+                                                            <span data-payment-amount-option-id="tx7f" style="display: none"></span>
+                                                    </div>
+
+                    
+                </div>
+
+                
+                <div class="section section--cards">
+
+                    <div class="section-title-container">
+                        <div class="section-title-text" role="heading" aria-level="3">
+                            Способ оплаты                        </div>
+                    </div>
+
+                    <div class="section__fields payments-grid">
+                        <div class="star-swiper no-swipe">
+                            <div class="full-list equalize-elements-width">
+
+                            
+                                <div class="payment-opt swiper-item selected">
+                                    <div class="swiper-item-inner">
+                                        <label class="payment-opt__button">
+                                            <input class="payment-opt__radio" name="leyka_payment_method" value="cp-card" type="radio" data-processing="custom-process-submit-event" data-has-recurring="1" data-ajax-without-form-submission="0" aria-label="Банковская карта">
+                                            <span class="payment-opt__icon">
+                                                                                            <img class="pm-icon cp-card card-visa" src="https://volontery.ru/wp-content/plugins/leyka/img/pm-icons/card-visa.svg" alt="">
+                                                                                            <img class="pm-icon cp-card card-mastercard" src="https://volontery.ru/wp-content/plugins/leyka/img/pm-icons/card-mastercard.svg" alt="">
+                                                                                            <img class="pm-icon cp-card card-maestro" src="https://volontery.ru/wp-content/plugins/leyka/img/pm-icons/card-maestro.svg" alt="">
+                                                                                            <img class="pm-icon cp-card card-mir" src="https://volontery.ru/wp-content/plugins/leyka/img/pm-icons/card-mir.svg" alt="">
+                                                                                        </span>
+                                        </label>
+                                        <span class="payment-opt__label">Банковская карта <b>(₽)</b></span>
+                                    </div>
+                                </div>
+                            
+                                <div class="payment-opt swiper-item ">
+                                    <div class="swiper-item-inner">
+                                        <label class="payment-opt__button">
+                                            <input class="payment-opt__radio" name="leyka_payment_method" value="quittance-bank_order" type="radio" data-processing="default" data-has-recurring="0" data-ajax-without-form-submission="1" aria-label="Банковская платёжная квитанция">
+                                            <span class="payment-opt__icon">
+                                                                                            <img class="pm-icon quittance-bank_order sber" src="https://volontery.ru/wp-content/plugins/leyka/img/pm-icons/sber.svg" alt="">
+                                                                                        </span>
+                                        </label>
+                                        <span class="payment-opt__label">Банковская платёжная квитанция <b>(₽)</b></span>
+                                    </div>
+                                </div>
+                            
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                
+                
+            </div>
+
+            
+            <!-- donor data -->
+            <div class="section section--person">
+
+                <div class="section-title-container">
+                    <div class="section-title-text" role="heading" aria-level="3">
+                        Личные данные                    </div>
+                </div>
+
+                <div class="section__fields donor equalize-elements-width" data-equalize-elements-exceptions=".donor__textfield--comment">
+
+                                        <div class="donor-field donor__textfield donor__textfield--email required">
+
+                        <label class="leyka-star-field-frame">
+                            <input type="text" id="leyka-1271358298" name="leyka_donor_email" value="" autocomplete="off" placeholder="Ваш email">
+                        </label>
+
+                        <div class="leyka-star-field-error-frame">
+                            <span class="donor__textfield-error leyka_donor_email-error">
+                                Укажите корректный адрес email                            </span>
+                        </div>
+
+                    </div>
+
+                                        <div class="donor-field donor__textfield donor__textfield--name required">
+                        <label class="leyka-star-field-frame">
+                            <input id="leyka-209635686" type="text" name="leyka_donor_name" value="" autocomplete="off" placeholder="Ваши имя и фамилия">
+                        </label>
+                        <div class="leyka-star-field-error-frame">
+                            <span class="donor__textfield-error leyka_donor_name-error">
+                                Укажите ваше имя                            </span>
+                        </div>
+                    </div>
+
+                    
+                </div>
+
+            </div>
+
+            <div class="section section--agreements">
+
+                <div class="section__fields agreements">
+
+                    
+                        <div class="donor__oferta">
+
+                        <span>
+
+                        
+                            <input type="checkbox" name="leyka_agree" id="leyka-2195366265" class="required" value="1" >
+
+                            <label for="leyka-2195366265">
+
+                                <svg class="svg-icon icon-checkbox-check"><use xlink:href="#icon-checkbox-check"></use></svg>
+
+                            Соглашаюсь с                                 <a href="#" class="leyka-js-oferta-trigger">
+                                                        офертой                                </a>
+
+                            </label>
+
+                        
+                            
+                                <input type="checkbox" name="leyka_agree_pd" id="leyka-1760359129" class="required" value="1" >
+
+                                <label for="leyka-1760359129">
+                                <svg class="svg-icon icon-checkbox-check"><use xlink:href="#icon-checkbox-check"></use></svg>
+
+                            Соглашаюсь на обработку моих                                 <a href="#" class="leyka-js-pd-trigger">
+                                                        персональных данных                                </a>
+
+                            </label>
+
+                            
+                        </span>
+
+                        </div>
+
+                    
+                    <div class="donor__submit">
+                        <input type="submit" disabled="disabled" class="leyka-default-submit" value="Пожертвовать" data-submit-text-template="Оформить ежемесячное пожертвование в #DAILY_ROUBLE_AMOUNT# ₽">                    </div>
+
+                    <div class="single-pm-icon"></div>
+
+                </div>
+
+            </div>
+
+        </form>
+
+        
+        <div class="leyka-pf__overlay"></div>
+                <div class="leyka-pf__agreement oferta">
+            <div class="agreement__frame">
+                <div class="agreement__flow"><p>Публичная оферта о заключении договора пожертвования</p>
+<p>Ассоциация некоммерческих организаций &quot;Союз волонтерских организаций и движений&quot; (Директор: Монакова Д.А.),<br />
+предлагает гражданам сделать пожертвование на ниже приведенных условиях:</p>
+<p>1. Общие положения<br />
+1.1. В соответствии с п. 2 ст. 437 Гражданского кодекса Российской Федерации данное предложение является публичной офертой (далее – Оферта).<br />
+1.2. В настоящей Оферте употребляются термины, имеющие следующее значение:<br />
+«Пожертвование» - «дарение вещи или права в общеполезных целях»;<br />
+«Жертвователь» - «граждане, делающие пожертвования»;<br />
+«Получатель пожертвования» - «Ассоциация некоммерческих организаций &quot;Союз волонтерских организаций и движений&quot;».</p>
+<p>1.3. Оферта действует бессрочно с момента размещения ее на сайте Получателя пожертвования.<br />
+1.4. Получатель пожертвования вправе отменить Оферту в любое время путем удаления ее со страницы своего сайта в Интернете.<br />
+1.5. Недействительность одного или нескольких условий Оферты не влечет недействительность всех остальных условий Оферты.</p>
+<p>2. Существенные условия договора пожертвования:<br />
+2.1. Пожертвование используется на содержание и ведение уставной деятельности Получателя пожертвования.<br />
+2.2. Сумма пожертвования определяется Жертвователем.</p>
+<p>3. Порядок заключения договора пожертвования:<br />
+3.1. В соответствии с п. 3 ст. 434 Гражданского кодекса Российской Федерации договор пожертвования заключается в письменной форме путем акцепта Оферты Жертвователем.<br />
+3.2. Оферта может быть акцептована путем перечисления Жертвователем денежных средств в пользу Получателя пожертвования платежным поручением по реквизитам, указанным в разделе 5 Оферты, с указанием в строке «назначение платежа»: «пожертвование на содержание и ведение уставной деятельности», а также с использованием пластиковых карт, электронных платежных систем и других средств и систем, позволяющих Жертвователю перечислять Получателю пожертвования денежных средств.<br />
+3.3. Совершение Жертвователем любого из действий, предусмотренных п. 3.2. Оферты, считается акцептом Оферты в соответствии с п. 3 ст. 438 Гражданского кодекса Российской Федерации.<br />
+3.4. Датой акцепта Оферты – датой заключения договора пожертвования является дата поступления пожертвования в виде денежных средств от Жертвователя на расчетный счет Получателя пожертвования.</p>
+<p>4. Заключительные положения:<br />
+4.1. Совершая действия, предусмотренные настоящей Офертой, Жертвователь подтверждает, что ознакомлен с условиями Оферты, целями деятельности Получателя пожертвования, осознает значение своих действий и имеет полное право на их совершение, полностью и безоговорочно принимает условия настоящей Оферты.<br />
+4.2. Настоящая Оферта регулируется и толкуется в соответствии с действующим российском законодательством.</p>
+<p>5. Подпись и реквизиты Получателя пожертвования</p>
+<p>Ассоциация некоммерческих организаций &quot;Союз волонтерских организаций и движений&quot;</p>
+<p>ОГРН: 1117799019810<br />
+ИНН/КПП: 772801001_/772840028<br />
+Адрес места нахождения: 117342, г.Москва, ул.Введенского, д.23А, стр.3</p>
+<p>Банковские реквизиты:<br />
+Номер банковского счёта: 40703810338110001751<br />
+Банк: ПАО «Сбербанк России»<br />
+БИК банка: 044525225<br />
+Номер корреспондентского счёта банка: 30101810400000000225</p>
+<p>Директор<br />
+Монакова Д.А.</p>
+</div>
+            </div>
+            <a href="#" class="agreement__close">
+                Соглашаюсь с офертой            </a>
+        </div>
+        
+                <div class="leyka-pf__agreement pd">
+            <div class="agreement__frame">
+                <div class="agreement__flow"><p>Согласие на обработку персональных данных</p>
+<p>Пользователь, оставляя заявку, оформляя подписку, комментарий, запрос на обратную связь, регистрируясь либо совершая иные действия, связанные с внесением своих персональных данных на интернет-сайте https://volontery.ru, принимает настоящее Согласие на обработку персональных данных (далее – Согласие), размещенное по адресу https://volontery.ru/personal-data-usage-terms/.</p>
+<p>Принятием Согласия является подтверждение факта согласия Пользователя со всеми пунктами Согласия. Пользователь дает свое согласие организации «Ассоциация некоммерческих организаций &quot;Союз волонтерских организаций и движений&quot;», которой принадлежит сайт https://volontery.ru на обработку своих персональных данных со следующими условиями:</p>
+<p>Пользователь дает согласие на обработку своих персональных данных, как без использования средств автоматизации, так и с их использованием.<br />
+Согласие дается на обработку следующих персональных данных (не являющимися специальными или биометрическими):<br />
+• фамилия, имя, отчество;<br />
+• адрес(а) электронной почты;<br />
+• иные данные, предоставляемые Пользователем.</p>
+<p>Персональные данные пользователя не являются общедоступными.</p>
+<p>1. Целью обработки персональных данных является предоставление полного доступа к функционалу сайта https://volontery.ru.</p>
+<p>2. Основанием для сбора, обработки и хранения персональных данных являются:<br />
+• Ст. 23, 24 Конституции Российской Федерации;<br />
+• Ст. 2, 5, 6, 7, 9, 18–22 Федерального закона от 27.07.06 года №152-ФЗ «О персональных данных»;<br />
+• Ст. 18 Федерального закона от 13.03.06 года № 38-ФЗ «О рекламе»;<br />
+• Устав организации «Ассоциация некоммерческих организаций &quot;Союз волонтерских организаций и движений&quot;»;<br />
+• Политика обработки персональных данных.</p>
+<p>3. В ходе обработки с персональными данными будут совершены следующие действия с персональными данными: сбор, запись, систематизация, накопление, хранение, уточнение (обновление, изменение), извлечение, использование, передача (распространение, предоставление, доступ), обезличивание, блокирование, удаление, уничтожение.</p>
+<p>4. Передача персональных данных, скрытых для общего просмотра, третьим лицам не осуществляется, за исключением случаев, предусмотренных законодательством Российской Федерации.</p>
+<p>5. Пользователь подтверждает, что указанные им персональные данные принадлежат лично ему.</p>
+<p>6. Персональные данные хранятся и обрабатываются до момента ликвидации организации «Ассоциация некоммерческих организаций &quot;Союз волонтерских организаций и движений&quot;». Хранение персональных данных осуществляется согласно Федеральному закону №125-ФЗ «Об архивном деле в Российской Федерации» и иным нормативно правовым актам в области архивного дела и архивного хранения.</p>
+<p>7. Пользователь согласен на получение информационных сообщений с сайта https://volontery.ru. Персональные данные обрабатываются до отписки Пользователя от получения информационных сообщений.</p>
+<p>8. Согласие может быть отозвано Пользователем либо его законным представителем, путем направления Отзыва согласия на электронную почту – kogan-76@yandex.ru с пометкой «Отзыв согласия на обработку персональных данных». В случае отзыва Пользователем согласия на обработку персональных данных организация «Ассоциация некоммерческих организаций &quot;Союз волонтерских организаций и движений&quot;» вправе продолжить обработку персональных данных без согласия Пользователя при наличии оснований, указанных в пунктах 2 - 11 части 1 статьи 6, части 2 статьи 10 и части 2 статьи 11 Федерального закона №152-ФЗ «О персональных данных» от 27.07.2006 г. Удаление персональных данных влечет невозможность доступа к полной версии функционала сайта https://volontery.ru.</p>
+<p>9. Настоящее Согласие является бессрочным, и действует все время до момента прекращения обработки персональных данных, указанных в п.7 и п.8 данного Согласия.</p>
+<p>10. Место нахождения организации «Ассоциация некоммерческих организаций &quot;Союз волонтерских организаций и движений&quot;» в соответствии с учредительными документами: 117342, г.Москва, ул.Введенского, д.23А, стр.3.</p>
+</div>
+            </div>
+            <a href="#" class="agreement__close">
+                Соглашаюсь на обработку моих персональных данных            </a>
+        </div>
+        
+    </div>
+
+    <div id="leyka-submit-errors" class="leyka-submit-errors" style="display:none"></div>
+
+    <div class="leyka-pf__redirect">
+        <div class="waiting">
+            <div class="waiting__card">
+                <div class="loading">
+                    <span class="leyka-spinner-border form-ajax-indicator " style="display: none"></span>                </div>
+                <div class="waiting__card-text">Перенаправление на безопасную страницу платежа...</div>
+            </div>
+        </div>
+    </div>
+
+</div></div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="aux-parallax-section elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-5f8d17b" data-id="5f8d17b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7f8adfe elementor-widget elementor-widget-aux_logo" data-id="7f8adfe" data-element_type="widget" data-widget_type="aux_logo.default">
+				<div class="elementor-widget-container">
+			<div class="aux-widget-logo"><a class="aux-logo-anchor aux-has-logo" title="СВОД" href="https://volontery.ru/"><img width="216" height="44" src="https://volontery.ru/wp-content/uploads/2022/02/cropped-cropped-icon_volontery_ru.png" class="aux-attachment aux-featured-image attachment-216x44 aux-attachment-id-146 " alt="cropped-cropped-icon_volontery_ru.png" data-ratio="4.91" data-original-w="216" /></a><a class="aux-logo-anchor aux-logo-sticky aux-logo-hidden aux-has-logo" title="СВОД" href="https://volontery.ru/"><img width="216" height="44" src="https://volontery.ru/wp-content/uploads/2022/02/cropped-icon_volontery_ru.png" class="aux-attachment aux-featured-image attachment-216x44 aux-attachment-id-145 " alt="cropped-icon_volontery_ru" data-ratio="4.91" data-original-w="216" /></a><section class="aux-logo-text"><h3 class="site-title"><a href="https://volontery.ru/" title="СВОД">СВОД</a></h3><p class="site-description">Союз волонтерских организаций и движений. Союз волонтерских организаций и движений. Союз волонтерских организаций и движений. </p></section></div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c5474be elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c5474be" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="aux-parallax-section elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-875e8b9" data-id="875e8b9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9f9a09b elementor-widget elementor-widget-menu-anchor" data-id="9f9a09b" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-menu-anchor" id="leyka"></div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		        </div><!-- end of wrapper -->
+    </footer><!-- end footer -->
+
+</div><!--! end of #inner-body -->
+
+    <div class="aux-hidden-blocks">
+
+        <section id="offmenu" class="aux-offcanvas-menu aux-pin-left" >
+            <div class="aux-panel-close">
+                <div class="aux-close aux-cross-symbol aux-thick-medium"></div>
+            </div>
+            <div class="offcanvas-header">
+            </div>
+            <div class="offcanvas-content">
+            </div>
+            <div class="offcanvas-footer">
+            </div>
+        </section>
+        <!-- offcanvas section -->
+
+        <section id="offcart" class="aux-offcanvas-menu aux-offcanvas-cart aux-pin-left" >
+            <div class="aux-panel-close">
+                <div class="aux-close aux-cross-symbol aux-thick-medium"></div>
+            </div>
+            <div class="offcanvas-header">
+                Корзина            </div>
+            <div class="aux-cart-wrapper aux-elegant-cart aux-offcart-content">
+            </div>
+        </section>
+        <!-- cartcanvas section -->
+
+                <section id="fs-menu-search" class="aux-fs-popup  aux-fs-menu-layout-center aux-indicator">
+            <div class="aux-panel-close">
+                <div class="aux-close aux-cross-symbol aux-thick-medium"></div>
+            </div>
+            <div class="aux-fs-menu">
+                        </div>
+            <div class="aux-fs-search">
+                <div  class="aux-search-section ">
+                <div  class="aux-search-form ">
+            <form action="https://volontery.ru/" method="get" >
+            <div class="aux-search-input-form">
+                            <input type="text" class="aux-search-field"  placeholder="Введите здесь..." name="s" autocomplete="off" />
+                                    </div>
+                            <input type="submit" class="aux-black aux-search-submit aux-uppercase" value="Поиск" >
+                        </form>
+        </div><!-- end searchform -->
+                </div>
+
+            </div>
+        </section>
+        <!-- fullscreen search and menu -->
+                <section id="fs-search" class="aux-fs-popup aux-search-overlay  has-ajax-form">
+            <div class="aux-panel-close">
+                <div class="aux-close aux-cross-symbol aux-thick-medium"></div>
+            </div>
+            <div class="aux-search-field">
+
+            <div  class="aux-search-section aux-404-search">
+                <div  class="aux-search-form aux-iconic-search">
+            <form action="https://volontery.ru/" method="get" >
+            <div class="aux-search-input-form">
+                            <input type="text" class="aux-search-field"  placeholder="Поиск…" name="s" autocomplete="off" />
+                                    </div>
+                            <div class="aux-submit-icon-container auxicon-search-4 ">
+                    <input type="submit" class="aux-iconic-search-submit" value="Поиск" >
+                </div>
+                        </form>
+        </div><!-- end searchform -->
+                </div>
+
+            </div>
+        </section>
+        <!-- fullscreen search-->
+
+        <div class="aux-scroll-top"></div>
+    </div>
+
+    <div class="aux-goto-top-btn aux-align-btn-right" data-animate-scroll="1"><div class="aux-hover-slide aux-arrow-nav aux-round aux-outline">    <span class="aux-overlay"></span>    <span class="aux-svg-arrow aux-h-small-up"></span>    <span class="aux-hover-arrow aux-svg-arrow aux-h-small-up aux-white"></span></div></div>
+<!-- outputs by wp_footer -->
+<!-- HFCM by 99 Robots - Snippet # 7: кака2 -->
+<script type="text/javascript">
+	
+let a = jQuery('p.aux-breadcrumbs').children();
+
+let n = a.length;
+
+for (var i = 0; i < n; i++) {
+
+	console.log( 'Даша ищет Блог');
+
+	if (a[i].innerText == 'Блог')
+
+		{
+			console.log( 'Даша убила Блог');
+			a[i].replaceWith("");
+ 			a[i+1].replaceWith(""); 
+		}
+
+}
+</script>
+<!-- /end HFCM by 99 Robots -->
+			<script type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='elementor-icons-css' href='https://volontery.ru/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.30.0' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://volontery.ru/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-post-15-css' href='https://volontery.ru/wp-content/uploads/elementor/css/post-15.css?ver=1722461565' media='all' />
+<link rel='stylesheet' id='slick-carousal-css-css' href='https://volontery.ru/wp-content/plugins/ultimate-carousel-for-elementor/classes/../css/slick-carousal.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='font_awesome_solid-css' href='https://volontery.ru/wp-content/plugins/ultimate-carousel-for-elementor/classes/../css/font-awesome/css/all.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='font_awese_solid-css' href='https://volontery.ru/wp-content/plugins/ultimate-carousel-for-elementor/classes/../../elementor/assets/lib/font-awesome/css/solid.min.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='auxin-elementor-widgets-css' href='https://volontery.ru/wp-content/plugins/auxin-elements/admin/assets/css/elementor-widgets.css?ver=2.16.0' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://volontery.ru/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://volontery.ru/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;subset=cyrillic&#038;ver=6.6.1' media='all' />
+<script src="https://volontery.ru/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script src="https://volontery.ru/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script src="https://volontery.ru/wp-content/themes/phlox/js/plugins.min.js?ver=2.16.0" id="auxin-plugins-js"></script>
+<script src="https://volontery.ru/wp-content/themes/phlox/js/scripts.min.js?ver=2.16.0" id="auxin-scripts-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/auxin-elements/admin/assets/js/elementor/widgets.js?ver=2.16.0" id="auxin-elementor-widgets-js"></script>
+<script id="mediaelement-core-js-before">
+var mejsL10n = {"language":"ru","strings":{"mejs.download-file":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0444\u0430\u0439\u043b","mejs.install-flash":"Flash player \u043f\u043b\u0430\u0433\u0438\u043d \u0431\u044b\u043b \u043e\u0442\u043a\u043b\u044e\u0447\u0435\u043d \u0438\u043b\u0438 \u043d\u0435 \u0431\u044b\u043b \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d \u0432 \u0432\u0430\u0448\u0435\u043c \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0435. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u0435 \u043f\u043b\u0430\u0433\u0438\u043d Flash player \u0438\u043b\u0438 \u0441\u043a\u0430\u0447\u0430\u0439\u0442\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044e\u044e \u0432\u0435\u0440\u0441\u0438\u044e \u0441 https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"\u041d\u0430 \u0432\u0435\u0441\u044c \u044d\u043a\u0440\u0430\u043d","mejs.play":"\u0412\u043e\u0441\u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0441\u0442\u0438","mejs.pause":"\u041f\u0430\u0443\u0437\u0430","mejs.time-slider":"\u0428\u043a\u0430\u043b\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u0438","mejs.time-help-text":"\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u043a\u043b\u0430\u0432\u0438\u0448\u0438 \u0432\u043b\u0435\u0432\u043e\/\u0432\u043f\u0440\u0430\u0432\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c\u0441\u044f \u043d\u0430 \u043e\u0434\u043d\u0443 \u0441\u0435\u043a\u0443\u043d\u0434\u0443; \u0432\u0432\u0435\u0440\u0445\/\u0432\u043d\u0438\u0437, \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c\u0441\u044f \u043d\u0430 \u0434\u0435\u0441\u044f\u0442\u044c \u0441\u0435\u043a\u0443\u043d\u0434.","mejs.live-broadcast":"\u041f\u0440\u044f\u043c\u0430\u044f \u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u044f","mejs.volume-help-text":"\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u043a\u043b\u0430\u0432\u0438\u0448\u0438 \u0432\u0432\u0435\u0440\u0445\/\u0432\u043d\u0438\u0437, \u0447\u0442\u043e\u0431\u044b \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u0438\u043b\u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u044c \u0433\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u044c.","mejs.unmute":"\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0437\u0432\u0443\u043a","mejs.mute":"\u0411\u0435\u0437 \u0437\u0432\u0443\u043a\u0430","mejs.volume-slider":"\u0420\u0435\u0433\u0443\u043b\u044f\u0442\u043e\u0440 \u0433\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u0438","mejs.video-player":"\u0412\u0438\u0434\u0435\u043e\u043f\u043b\u0435\u0435\u0440","mejs.audio-player":"\u0410\u0443\u0434\u0438\u043e\u043f\u043b\u0435\u0435\u0440","mejs.captions-subtitles":"\u0421\u0443\u0431\u0442\u0438\u0442\u0440\u044b","mejs.captions-chapters":"\u0413\u043b\u0430\u0432\u044b","mejs.none":"\u041d\u0435\u0442","mejs.afrikaans":"\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439","mejs.albanian":"\u0410\u043b\u0431\u0430\u043d\u0441\u043a\u0438\u0439","mejs.arabic":"\u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0439","mejs.belarusian":"\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u043a\u0438\u0439","mejs.bulgarian":"\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0439","mejs.catalan":"\u041a\u0430\u0442\u0430\u043b\u043e\u043d\u0441\u043a\u0438\u0439","mejs.chinese":"\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439","mejs.chinese-simplified":"\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 (\u0443\u043f\u0440\u043e\u0449\u0435\u043d\u043d\u044b\u0439)","mejs.chinese-traditional":"\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 (\u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0439)","mejs.croatian":"\u0425\u043e\u0440\u0432\u0430\u0442\u0441\u043a\u0438\u0439","mejs.czech":"\u0427\u0435\u0448\u0441\u043a\u0438\u0439","mejs.danish":"\u0414\u0430\u0442\u0441\u043a\u0438\u0439","mejs.dutch":"\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 (\u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439)","mejs.english":"\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439","mejs.estonian":"\u042d\u0441\u0442\u043e\u043d\u0441\u043a\u0438\u0439","mejs.filipino":"\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u0441\u043a\u0438\u0439","mejs.finnish":"\u0424\u0438\u043d\u0441\u043a\u0438\u0439","mejs.french":"\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439","mejs.galician":"\u0413\u0430\u043b\u0438\u0441\u0438\u0439\u0441\u043a\u0438\u0439","mejs.german":"\u041d\u0435\u043c\u0435\u0446\u043a\u0438\u0439","mejs.greek":"\u0413\u0440\u0435\u0447\u0435\u0441\u043a\u0438\u0439","mejs.haitian-creole":"\u0413\u0430\u0438\u0442\u044f\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0435\u043e\u043b\u044c\u0441\u043a\u0438\u0439","mejs.hebrew":"\u0418\u0432\u0440\u0438\u0442","mejs.hindi":"\u0425\u0438\u043d\u0434\u0438","mejs.hungarian":"\u0412\u0435\u043d\u0433\u0435\u0440\u0441\u043a\u0438\u0439","mejs.icelandic":"\u0418\u0441\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439","mejs.indonesian":"\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0441\u043a\u0438\u0439","mejs.irish":"\u0418\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439","mejs.italian":"\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439","mejs.japanese":"\u042f\u043f\u043e\u043d\u0441\u043a\u0438\u0439","mejs.korean":"\u041a\u043e\u0440\u0435\u0439\u0441\u043a\u0438\u0439","mejs.latvian":"\u041b\u0430\u0442\u0432\u0438\u0439\u0441\u043a\u0438\u0439","mejs.lithuanian":"\u041b\u0438\u0442\u043e\u0432\u0441\u043a\u0438\u0439","mejs.macedonian":"\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\u0439","mejs.malay":"\u041c\u0430\u043b\u0430\u0439\u0441\u043a\u0438\u0439","mejs.maltese":"\u041c\u0430\u043b\u044c\u0442\u0438\u0439\u0441\u043a\u0438\u0439","mejs.norwegian":"\u041d\u043e\u0440\u0432\u0435\u0436\u0441\u043a\u0438\u0439","mejs.persian":"\u041f\u0435\u0440\u0441\u0438\u0434\u0441\u043a\u0438\u0439","mejs.polish":"\u041f\u043e\u043b\u044c\u0441\u043a\u0438\u0439","mejs.portuguese":"\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u044c\u0441\u043a\u0438\u0439","mejs.romanian":"\u0420\u0443\u043c\u044b\u043d\u0441\u043a\u0438\u0439","mejs.russian":"\u0420\u0443\u0441\u0441\u043a\u0438\u0439","mejs.serbian":"\u0421\u0435\u0440\u0431\u0441\u043a\u0438\u0439","mejs.slovak":"\u0421\u043b\u043e\u0432\u0430\u0446\u043a\u0438\u0439","mejs.slovenian":"\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0438\u0439","mejs.spanish":"\u0418\u0441\u043f\u0430\u043d\u0441\u043a\u0438\u0439","mejs.swahili":"\u0421\u0443\u0430\u0445\u0438\u043b\u0438","mejs.swedish":"\u0428\u0432\u0435\u0434\u0441\u043a\u0438\u0439","mejs.tagalog":"\u0422\u0430\u0433\u0430\u043b\u043e\u0433","mejs.thai":"\u0422\u0430\u0439\u0441\u043a\u0438\u0439","mejs.turkish":"\u0422\u0443\u0440\u0435\u0446\u043a\u0438\u0439","mejs.ukrainian":"\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0439","mejs.vietnamese":"\u0412\u044c\u0435\u0442\u043d\u0430\u043c\u0441\u043a\u0438\u0439","mejs.welsh":"\u0412\u0430\u043b\u043b\u0438\u0439\u0441\u043a\u0438\u0439","mejs.yiddish":"\u0418\u0434\u0438\u0448"}};
+</script>
+<script src="https://volontery.ru/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script src="https://volontery.ru/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.6.1" id="mediaelement-migrate-js"></script>
+<script id="mediaelement-js-extra">
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"auto","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+</script>
+<script src="https://volontery.ru/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.6.1" id="wp-mediaelement-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/auxin-elements/public/assets/js/plugins.min.js?ver=2.16.0" id="auxin-elements-plugins-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/auxin-elements/public/assets/js/scripts.js?ver=2.16.0" id="auxin-elements-scripts-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/leyka/assets/js/public.js?ver=3.31.5" id="leyka-new-templates-public-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/leyka/js/jquery.easyModal.min.js?ver=3.31.5" id="leyka-modal-js"></script>
+<script id="leyka-public-js-extra">
+var leyka = {"ajaxurl":"https:\/\/volontery.ru\/wp-admin\/admin-ajax.php","homeurl":"https:\/\/volontery.ru\/","plugin_url":"https:\/\/volontery.ru\/wp-content\/plugins\/leyka\/","gtm_ga_eec_available":"0","correct_donation_amount_required_msg":"\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0441\u0443\u043c\u043c\u0443","donation_amount_too_great_msg":"\u0423\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u0440\u0430\u0437\u043c\u0435\u0440 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0432\u0435\u043b\u0438\u043a (\u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c %s)","donation_amount_too_small_msg":"\u0423\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u0440\u0430\u0437\u043c\u0435\u0440 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043c\u0430\u043b (\u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e \u043c\u0438\u043d\u0438\u043c\u0443\u043c %s)","amount_incorrect_msg":"\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0441\u0443\u043c\u043c\u0443 \u043e\u0442 %s \u0434\u043e %s <span class=\"curr-mark\">%s<\/span>","donor_name_required_msg":"\u0423\u043a\u0430\u0436\u0438\u0442\u0435 \u0432\u0430\u0448\u0435 \u0438\u043c\u044f","oferta_agreement_required_msg":"\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0432\u0430\u0448\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0435","checkbox_check_required_msg":"\u041d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0432\u0430\u0448\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0435","text_required_msg":"\u0417\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u0435 \u044d\u0442\u043e \u043f\u043e\u043b\u0435","email_required_msg":"\u0423\u043a\u0430\u0436\u0438\u0442\u0435 email","email_invalid_msg":"\u0423\u043a\u0430\u0436\u0438\u0442\u0435 email \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 your@email.com","must_not_be_email_msg":"\u0412 \u044d\u0442\u043e\u043c \u043f\u043e\u043b\u0435 \u043d\u0435 \u043d\u0443\u0436\u043d\u043e \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0442\u044c email","value_too_long_msg":"\u0423\u043a\u0430\u0437\u0430\u043d\u043e \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u0434\u043b\u0438\u043d\u043d\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435","error_while_unsibscribe_msg":"\u041e\u0448\u0438\u0431\u043a\u0430 \u043f\u0440\u0438 \u0437\u0430\u043f\u0440\u043e\u0441\u0435 \u043d\u0430 \u043e\u0442\u043c\u0435\u043d\u0443 \u0440\u0435\u043a\u0443\u0440\u0440\u0435\u043d\u0442\u043d\u043e\u0439 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438","default_error_msg":"\u041e\u0448\u0438\u0431\u043a\u0430","ajax_wrong_server_response":"\u041e\u0448\u0438\u0431\u043a\u0430 \u0432 \u043e\u0442\u0432\u0435\u0442\u0435 \u0441\u0435\u0440\u0432\u0435\u0440\u0430. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0441\u043e\u043e\u0431\u0449\u0438\u0442\u0435 \u043e\u0431 \u044d\u0442\u043e\u043c \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0435 \u044d\u0442\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430.","cp_not_set_up":"\u041e\u0448\u0438\u0431\u043a\u0430 \u0432 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430\u0445 CloudPayments. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0441\u043e\u043e\u0431\u0449\u0438\u0442\u0435 \u043e\u0431 \u044d\u0442\u043e\u043c \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0435 \u044d\u0442\u043e\u0433\u043e \u0441\u0430\u0439\u0442\u0430.","cp_donation_failure_reasons":{"User has cancelled":"\u041f\u043b\u0430\u0442\u0451\u0436 \u043e\u0442\u043c\u0435\u043d\u0451\u043d"},"phone_invalid":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u0432\u0435\u0434\u0438\u0442\u0435 \u043d\u043e\u043c\u0435\u0440 \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0430 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 7\u0445\u0445\u0445\u0445\u0445\u0445\u0445\u0445\u0445\u0445","payselection_not_set_up":"Error in Payselection settings. Please report to the website tech support.","payselection_error":"Payselection Error: ","payselection_widget_errors":{"PAY_WIDGET:CREATE_INVALID_PARAMS":"Parameter error","PAY_WIDGET:CREATE_BAD_REQUEST_ERROR":"System error","PAY_WIDGET:CREATE_NETWORK_ERROR":"Network error","PAY_WIDGET:TRANSACTION_FAIL":"Transaction error","PAY_WIDGET:CLOSE_COMMON_ERROR":"Close after an error","PAY_WIDGET:CLOSE_BEFORE_PAY":"Payment not completed","PAY_WIDGET:CLOSE_AFTER_FAIL":"Close after fail","PAY_WIDGET:CLOSE_AFTER_SUCCESS":"Close after success"}};
+</script>
+<script src="https://volontery.ru/wp-content/plugins/leyka/js/public.js?ver=3.31.5" id="leyka-public-js"></script>
+<script src="https://widget.cloudpayments.ru/bundles/cloudpayments.js?ver=3.31.5" id="leyka-cp-widget-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/leyka/gateways/cp/js/leyka.cp.js?ver=3.31.5.001" id="leyka-cp-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/wp-owl-carousel/owl-carousel/owl.carousel.min.js?ver=6.6.1" id="owl-carousel-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/wp-owl-carousel/js/wp-owl-carousel.js?ver=6.6.1" id="wp-owl-carousel-js"></script>
+<script src="https://volontery.ru/wp-content/uploads/phlox/custom.js?ver=4" id="auxin-custom-js-js"></script>
+<script id="eael-general-js-extra">
+var localize = {"ajaxurl":"https:\/\/volontery.ru\/wp-admin\/admin-ajax.php","nonce":"086a3d2f53","i18n":{"added":"\u0414\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u043e ","compare":"\u0421\u0440\u0430\u0432\u043d\u0438\u0442\u044c","loading":"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430\u2026"},"eael_translate_text":{"required_text":"\u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u043f\u043e\u043b\u0435\u043c","invalid_text":"\u041a\u043b\u044e\u0447 \u043d\u0435\u0432\u0435\u0440\u0435\u043d","billing_text":"\u041f\u043b\u0430\u0442\u0451\u0436","shipping_text":"\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430","fg_mfp_counter_text":"\u0438\u0437"},"page_permalink":"https:\/\/volontery.ru\/chlenstvo\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 - \u043a\u043d\u0438\u0436\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 - \u0430\u043b\u044c\u0431\u043e\u043c\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"\u041f\u043b\u0430\u043d\u0448\u0435\u0442 - \u043a\u043d\u0438\u0436\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"\u041f\u043b\u0430\u043d\u0448\u0435\u0442 - \u0430\u043b\u044c\u0431\u043e\u043c\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"\u041d\u043e\u0443\u0442\u0431\u0443\u043a","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u0428\u0438\u0440\u043e\u043a\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u043d\u044b\u0435","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+</script>
+<script src="https://volontery.ru/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.9.27" id="eael-general-js"></script>
+<script src="https://volontery.ru/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/ultimate-carousel-for-elementor/classes/../js/slick.js?ver=6.6.1" id="slick-js-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/ultimate-carousel-for-elementor/classes/../js/custom-tm.js?ver=6.6.1" id="custom-tm-js-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.23.3" id="elementor-webpack-runtime-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.23.3" id="elementor-frontend-modules-js"></script>
+<script src="https://volontery.ru/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0432 Facebook","shareOnTwitter":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f \u0432 Twitter","pinIt":"\u0417\u0430\u043f\u0438\u043d\u0438\u0442\u044c","download":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c","downloadImage":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435","fullscreen":"\u0412\u043e \u0432\u0435\u0441\u044c \u044d\u043a\u0440\u0430\u043d","zoom":"\u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435","share":"\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u044c\u0441\u044f","playVideo":"\u041f\u0440\u043e\u0438\u0433\u0440\u0430\u0442\u044c \u0432\u0438\u0434\u0435\u043e","previous":"\u041d\u0430\u0437\u0430\u0434","next":"\u0414\u0430\u043b\u0435\u0435","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","a11yCarouselWrapperAriaLabel":"\u041a\u0430\u0440\u0443\u0441\u0435\u043b\u044c | \u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u043e\u043a\u0440\u0443\u0442\u043a\u0430: \u0441\u0442\u0440\u0435\u043b\u043a\u0430 \u0432\u043b\u0435\u0432\u043e \u0438 \u0432\u043f\u0440\u0430\u0432\u043e","a11yCarouselPrevSlideMessage":"\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u0441\u043b\u0430\u0439\u0434","a11yCarouselNextSlideMessage":"\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u0441\u043b\u0430\u0439\u0434","a11yCarouselFirstSlideMessage":"\u042d\u0442\u043e \u043f\u0435\u0440\u0432\u044b\u0439 \u0441\u043b\u0430\u0439\u0434","a11yCarouselLastSlideMessage":"\u042d\u0442\u043e \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0441\u043b\u0430\u0439\u0434","a11yCarouselPaginationBulletMessage":"\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u0441\u043b\u0430\u0439\u0434\u0443"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 - \u043a\u043d\u0438\u0436\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 - \u0430\u043b\u044c\u0431\u043e\u043c\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"\u041f\u043b\u0430\u043d\u0448\u0435\u0442 - \u043a\u043d\u0438\u0436\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"\u041f\u043b\u0430\u043d\u0448\u0435\u0442 - \u0430\u043b\u044c\u0431\u043e\u043c\u043d\u0430\u044f \u043e\u0440\u0438\u0435\u043d\u0442\u0430\u0446\u0438\u044f","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"\u041d\u043e\u0443\u0442\u0431\u0443\u043a","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u0428\u0438\u0440\u043e\u043a\u043e\u0444\u043e\u0440\u043c\u0430\u0442\u043d\u044b\u0435","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.23.3","is_static":false,"experimentalFeatures":{"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container_grid":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_onboarding":true,"home_screen":true,"ai-layout":true,"landing-pages":true,"e_lazyload":true},"urls":{"assets":"https:\/\/volontery.ru\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/volontery.ru\/wp-admin\/admin-ajax.php"},"nonces":{"floatingButtonsClickTracking":"ac53e8e685"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":217,"title":"%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%A1%D0%BE%D1%8E%D0%B7%20%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D1%85%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B9%20%D0%B8%20%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9%20%E2%80%94%20%D0%A1%D0%92%D0%9E%D0%94","excerpt":"","featuredImage":false}};
+</script>
+<script src="https://volontery.ru/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.3" id="elementor-frontend-js"></script>
+<!-- end wp_footer -->
+</body>
+</html>
